@@ -1,1 +1,6 @@
-data
+public class testdata {
+
+  public void static main (String[] args){
+  system.out.println("kjadhfjhds");
+  }
+}
